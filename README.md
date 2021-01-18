@@ -1,5 +1,5 @@
 # WTtest
-WTtest es una aplicacion de interfaz DAQ y control para un sistema de pruebas vibratorias en estructuras a escala tipo jacket escrita en Python y haciendo uso de el API de NI-DAQmx; esta publicado bajo licencia GPL.
+WTtest es una aplicacion de interfaz DAQ y control para un sistema de pruebas vibratorias en estructuras a escala tipo jacket escrita en Python y haciendo uso del API de NI-DAQmx; esta publicado bajo licencia GPL.
 
 
 
